@@ -1,0 +1,21 @@
+# Rémi Benoist
+
+> Rémi Benoist est un analytics engineer freelance basé à Paris, spécialisé dans dbt, BigQuery et l’optimisation des coûts data (FinOps). Depuis février 2026, il est en mission chez Optic 2000. Auparavant, il a passé trois ans comme analytics engineer chez Nickel (groupe BNP Paribas), où il a notamment réduit de 30 % la consommation dbt grâce à un tournoi FinOps.
+
+- Métier : analytics engineer freelance
+- Spécialités : dbt, BigQuery, SQL, Python, Git, Google Cloud Platform, FinOps data
+- Parcours : Bosch (ingénieur essais, 2019), Manitou Group (data analyst, 2020), Arkance Optimum (data analyst, 2020-2023), Nickel (analytics engineer, 2023-2026), freelance chez Optic 2000 (depuis février 2026)
+- Formation : ESTACA, école d’ingénieurs
+- Orthographes : Rémi Benoist, Remi Benoist, Rémi BENOIST
+
+## Liens
+
+- [Site officiel](https://remibenoist.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/remi-benoist-data/)
+- [GitHub](https://github.com/remibenoist)
+
+## Publications et mentions
+
+- [Comment réduire ses coûts Google BigQuery ? (Modern Data Network, 2023)](https://medium.com/modern-data-network-mdn/comment-r%C3%A9duire-ses-co%C3%BBts-google-bigquery-99f34d4fd2f0) : témoignage de Rémi Benoist sur le tournoi FinOps de Nickel
+- [How to reduce your BigQuery costs? (Modern Data Network, version anglaise)](https://www.moderndatanetwork.org/blog/how-to-reduce-your-bigquery-costs)
+- [Post de Paul Marcombes sur le coût des tests dbt chez Nickel (2023)](https://www.linkedin.com/posts/paul-marcombes_dbt-finops-share-7115474666076430336-oeWp/)
